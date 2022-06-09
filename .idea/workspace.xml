@@ -2,11 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dde8dac0-b387-491f-b28b-af6636f8da0f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/teller3Kotlin/ejercicio_cinco.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/teller3Kotlin/ejercicio_nueve.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/teller3Kotlin/ejercicio_seis.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/teller3Kotlin/ejercicio_uno.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/teller3Kotlin/ejercicio_diez.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/teller3Kotlin/ejercicio_ocho.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/teller3Kotlin/ejercicio_once.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/teller3Kotlin/ejercicio_siete.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/teller3Kotlin.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/teller3Kotlin/ejercicio_cinco.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/teller3Kotlin/ejercicio_cinco.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,6 +26,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -36,13 +46,15 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/andre/Desktop/Diplomado desarrollo móvil/taller2_kotlin",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "C:/Users/German Puentes/Documents/Diplomado de Desarrollo Móvil/teller3Kotlin",
     "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0"
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "editor.preferences.tabs"
   }
 }]]></component>
-  <component name="RunManager" selected="Kotlin.Ejercicio_nueveKt">
+  <component name="RunManager" selected="Kotlin.Ejercicio_onceKt">
     <configuration name="Ejercicio_cincoKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="teller3Kotlin.Ejercicio_cincoKt" />
       <module name="teller3Kotlin" />
@@ -57,6 +69,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Ejercicio_onceKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="teller3Kotlin.Ejercicio_onceKt" />
+      <module name="teller3Kotlin" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Ejercicio_seisKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="teller3Kotlin.Ejercicio_seisKt" />
       <module name="teller3Kotlin" />
@@ -66,6 +85,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.Ejercicio_onceKt" />
         <item itemvalue="Kotlin.Ejercicio_nueveKt" />
         <item itemvalue="Kotlin.Ejercicio_seisKt" />
         <item itemvalue="Kotlin.Ejercicio_cincoKt" />
