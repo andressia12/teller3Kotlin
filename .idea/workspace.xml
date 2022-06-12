@@ -1,11 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="dde8dac0-b387-491f-b28b-af6636f8da0f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/teller3Kotlin/ejercicio_cinco.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/teller3Kotlin/ejercicio_nueve.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/teller3Kotlin/ejercicio_seis.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/teller3Kotlin/ejercicio_uno.kt" afterDir="false" />
+    <list default="true" id="dde8dac0-b387-491f-b28b-af6636f8da0f" name="Changes" comment="ejercicios hechos en clase">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/teller3Kotlin/ejercicico_cuatro.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/teller3Kotlin/ejercicio_dos.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/teller3Kotlin/ejercicio_tres.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -36,15 +35,22 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/andre/Desktop/Diplomado desarrollo móvil/taller2_kotlin",
+    "last_opened_file_path": "C:/Users/andre/Desktop/Diplomado desarrollo móvil/teller3Kotlin",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0"
   }
 }]]></component>
-  <component name="RunManager" selected="Kotlin.Ejercicio_nueveKt">
-    <configuration name="Ejercicio_cincoKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="teller3Kotlin.Ejercicio_cincoKt" />
+  <component name="RunManager" selected="Kotlin.Ejercicio_tresKt">
+    <configuration name="Ejercicico_cuatroKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="teller3Kotlin.Ejercicico_cuatroKt" />
+      <module name="teller3Kotlin" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ejercicio_dosKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="teller3Kotlin.Ejercicio_dosKt" />
       <module name="teller3Kotlin" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -64,11 +70,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Ejercicio_tresKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="teller3Kotlin.Ejercicio_tresKt" />
+      <module name="teller3Kotlin" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.Ejercicio_tresKt" />
+        <item itemvalue="Kotlin.Ejercicico_cuatroKt" />
+        <item itemvalue="Kotlin.Ejercicio_dosKt" />
         <item itemvalue="Kotlin.Ejercicio_nueveKt" />
         <item itemvalue="Kotlin.Ejercicio_seisKt" />
-        <item itemvalue="Kotlin.Ejercicio_cincoKt" />
       </list>
     </recent_temporary>
   </component>
@@ -81,6 +96,14 @@
       <option name="presentableId" value="Default" />
       <updated>1654644629237</updated>
     </task>
+    <task id="LOCAL-00001" summary="ejercicios hechos en clase">
+      <created>1654654613264</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1654654613264</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -93,5 +116,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="ejercicios hechos en clase" />
+    <option name="LAST_COMMIT_MESSAGE" value="ejercicios hechos en clase" />
   </component>
 </project>
